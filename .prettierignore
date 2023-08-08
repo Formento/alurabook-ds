@@ -1,0 +1,3 @@
+# Prettier ignore artifacts:
+dist
+node_modules

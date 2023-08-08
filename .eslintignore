@@ -1,0 +1,3 @@
+# Eslint ignore artifacts:
+/node_modules/
+dist/
